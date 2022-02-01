@@ -9,3 +9,4 @@ These are assets required by ezlibs-scripts
     - `server/memory/area/`
     - `server/memory/player/`
     - `server/encounters/`
+    - `server/scripts/events/`
